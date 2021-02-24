@@ -1,0 +1,22 @@
+{
+  "name": "misc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosukei3108/misc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosukei3108/misc/issues"
+  },
+  "homepage": "https://github.com/yosukei3108/misc#readme",
+  "dependencies": {
+    "misc": "^1.0.2"
+  }
+}
